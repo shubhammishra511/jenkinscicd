@@ -1,0 +1,24 @@
+Material for Training
+https://github.com/kmitsolution/DevOps-Mastering
+
+Free git and GitHub Udemy
+https://www.udemy.com/course/git-and-github-mastery-from-scratch-to-advanced/?couponCode=620B2E2692CC70288D09
+
+
+Youtube channel
+https://www.youtube.com/@kmitcourses
+
+
+Kubernetes Playlist
+https://www.youtube.com/watch?v=W_D4aKObRII&list=PLQ-AYnT0fM5gCigmxohggUDUP3McDx3m0
+
+Jenkins 
+https://www.youtube.com/watch?v=2vHcW_jllrc&t=1755s
+https://www.youtube.com/watch?v=ud1Nhvy1JyU&t=434s
+
+Docker
+https://www.youtube.com/watch?v=jqMWe17bgYE&t=252s
+
+Mastering DevOps - Complete
+
+https://www.youtube.com/watch?v=qM9qCnnl0cU&list=PLQ-AYnT0fM5gIN05ejJAHatijuxAjHhKW
